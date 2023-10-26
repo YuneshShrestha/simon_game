@@ -67,6 +67,7 @@ body {
 .instruction{
   color: white;
   font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .center{
   margin-top: 100px;
